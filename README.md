@@ -2,8 +2,7 @@
 
 📍 New York, NY &nbsp;|&nbsp; Staff Software Engineer
 
-> Building with AI. I think like a designer, but build like an engineer.
-> Designing interfaces for intelligence.
+> Designing interfaces for intelligence. I think like a designer, but build like an engineer.
 > Building AI-native systems and agentic workflows.
 > 
 
