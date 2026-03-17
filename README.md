@@ -12,8 +12,8 @@
 ### Tech & Tools
 
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Jules](https://img.shields.io/badge/Jules-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-0A0A0A?style=flat-square&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI_Studio-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
