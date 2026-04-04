@@ -47,8 +47,8 @@
 ### GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=parvezk&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Parvez's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvezk&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Most Used Languages" />
+  <img height="160" src="https://readme-stats-fast.vercel.app/api?username=parvezk&show_icons=true&theme=default&hide_border=true" alt="Parvez's GitHub stats" />
+  <img height="160" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=parvezk&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Most used languages" />
 </p>
 
 ---
