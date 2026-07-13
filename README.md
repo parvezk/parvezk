@@ -54,6 +54,12 @@
 
 ---
 
+### GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parvezk&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ### Connect
 
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white)](https://parvezkose.com)
