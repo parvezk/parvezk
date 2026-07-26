@@ -2,7 +2,8 @@
 
 📍 New York, NY &nbsp;|&nbsp; Staff Software Engineer | NYU
 
-> Designing generative interfaces for intelligent apps and agents. 
+> Designing generative interfaces for intelligent apps and agents.
+> 
 > Building AI-native systems and agentic workflows.
 > 
 
