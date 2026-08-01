@@ -2,7 +2,7 @@
 
 📍 New York, NY &nbsp;|&nbsp; Staff Software Engineer | NYU
 
-> Designing generative interfaces for intelligent apps and agents.
+> Designing generative interfaces for intelligent experiences.
 > 
 > Building AI-native systems and agentic workflows.
 > 
@@ -40,9 +40,9 @@
 
 ### What I'm Working On
 
-- 🤖 **Generative UI & Agentic Engineering** — building AI-native interfaces at Amazon
+- 🤖 **Agentic Engineering & Gen UI** — building AI-native interfaces at Amazon
 - 🎨 **Design × Engineering** — bridging the gap between how things look and how they work
-- 🔭 Exploring the frontier of human–AI interaction and data visualization
+- 🔭 **Dynamic Visualization** Exploring the frontier of human centric–AI interaction and data visualization
 
 ---
 
