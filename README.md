@@ -4,7 +4,7 @@
 
 > Designing and building generative interfaces for agent-driven experiences.
 >
-> Building AI agents with rich, interactive UIs and the agentic infrastructure for the long-running tasks: persistent harnesses, durable workflows, model eval pipelines for self-improving agents, human-in-the-loop guardrails, and multi-agent orchestration to parallelize workloads.
+> Building AI agents with rich, interactive UIs, and the agentic infrastructure for the long-running tasks: persistent harnesses, durable workflows, model eval pipelines for self-improving agents, human-in-the-loop guardrails, and multi-agent orchestration to parallelize workloads.
 > 
 
 
