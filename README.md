@@ -2,7 +2,7 @@
 
 📍 New York, NY &nbsp;|&nbsp; Staff Software Engineer | NYU
 
-> Designing generative interfaces for agent-driven experiences.
+> Designing and building rich, interactive, generative interfaces for agent-driven experiences.
 > 
 > Building agentic infrastructure for long-running tasks: persistent harnesses, durable workflows, model eval pipelines for self-improving agents, human-in-the-loop guardrails, and multi-agent orchestration to parallelize workloads.
 > 
