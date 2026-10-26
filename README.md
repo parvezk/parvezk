@@ -40,9 +40,9 @@
 
 ### What I'm Working On
 
-- 🤖 **Agentic Engineering & Gen UI** — building AI-native interfaces at Amazon
-- 🎨 **Design × Engineering** — bridging the gap between how things look and how they work
-- 🔭 **Dynamic Visualization** Exploring the frontier of human centric–AI interaction and data visualization
+- 🤖 **Generative UI** —  designing and building agent-driven experiences and generative interfaces.
+- ⚙️ **Agentic Infrastructure** — persistent harnesses, durable workflows, model eval pipelines, human-in-the-loop guardrails and multi-agent orchestration.
+- 📐 **Design × Engineering** —  bridging the gap between how things look and how they work. Exploring human-centric AI interaction and data visualization.
 
 ---
 
