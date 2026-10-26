@@ -42,7 +42,7 @@
 
 - 🤖 **Generative UI** —  designing and building agent-driven experiences and generative interfaces.
 - ⚙️ **Agentic Infrastructure** — persistent harnesses, durable workflows, model eval pipelines, human-in-the-loop guardrails and multi-agent orchestration.
-- 📐 **Design × Engineering** —  bridging the gap between how things look and how they work. Exploring human-centric AI interaction and data visualization.
+- 📐 **Design Engineering** —  bridging the gap between how things look and how they work. Exploring human-centric AI interaction and data visualization.
 
 ---
 
